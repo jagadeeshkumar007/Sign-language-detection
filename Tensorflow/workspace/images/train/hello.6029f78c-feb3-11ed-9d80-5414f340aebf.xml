@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello.6029f78c-feb3-11ed-9d80-5414f340aebf.jpg</filename>
+	<path>C:\Users\jagad\PycharmProjects\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\hello.6029f78c-feb3-11ed-9d80-5414f340aebf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>113</ymin>
+			<xmax>448</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>
